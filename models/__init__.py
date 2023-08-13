@@ -2,4 +2,5 @@
 """ Importing modules and packages """
 from models.engine.file_storage import FileStorage
 
-storage = FileS
+storage = FileStorage()
+storage.reload()
