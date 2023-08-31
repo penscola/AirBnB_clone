@@ -36,6 +36,7 @@ Documented commands (type help <topic>):
 all  count  create  destroy  help  quit  show  update
 (hbnb) 
 $
+$
 $ cat test_help
 help
 $
